@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+c:\users\ravi kandel\documents\visual studio 2015\projects\recogn1\recogn1\source1.cpp(141): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  recogn1.vcxproj -> C:\Users\Ravi Kandel\documents\visual studio 2015\Projects\recogn1\x64\Debug\recogn1.exe
+  recogn1.vcxproj -> C:\Users\Ravi Kandel\documents\visual studio 2015\Projects\recogn1\x64\Debug\recogn1.pdb (Full PDB)
